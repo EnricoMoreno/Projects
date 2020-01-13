@@ -1,2 +1,2 @@
 # Projects
-Projects made. They can be either blockouts or complete projects (specified in each upload).
+Projects made. They can be either blockouts or completed projects.
